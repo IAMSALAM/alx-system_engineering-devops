@@ -1,0 +1,2 @@
+#!/bin/bash 3-twofiles
+cat /etc/passwd /etc/hosts 3-twofiles
